@@ -89,4 +89,4 @@ def api_history(stock_code):
         return jsonify({'error': str(e), 'success': False}), 400
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5000
+    app.run(debug=True, port=5000)
