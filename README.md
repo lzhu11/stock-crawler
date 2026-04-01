@@ -1,2 +1,3 @@
-# stock-crawler
-Taiwan Stock Price Crawler - 台灣股票爬蟲
+# Stock Crawler
+
+This project is a stock crawler that fetches stock information using web scraping techniques.
